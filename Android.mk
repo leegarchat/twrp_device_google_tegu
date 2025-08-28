@@ -6,6 +6,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),caiman)
+ifeq ($(TARGET_DEVICE),tegu)
 include $(call all-subdir-makefiles,$(LOCAL_PATH))
 endif

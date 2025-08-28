@@ -1,4 +1,4 @@
-**OrangeFox Recovery for Pixel 9 Pro (caiman)**
+**OrangeFox Recovery for Pixel 9a (tegu)**
 
 **Maintainer:** LeeGarChat
 
@@ -37,7 +37,7 @@
 
 * **OrangeFox Version:** R11.3
 * **Base:** RANCH 14.1
-* **Device:** Google Pixel 9 Pro (caiman) (Based on Ofox pixel 8 series)
+* **Device:** Google Pixel 9a (tegu) (Based on Ofox pixel 8 series)
 * **Maintainer:** LeeGarChat
 * **Build Date:** See Release section
 

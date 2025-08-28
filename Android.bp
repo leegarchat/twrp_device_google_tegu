@@ -7,8 +7,8 @@
 
 soong_namespace {
 	imports: [
-		"device/google/caiman/pixel-source/conf",
-		"device/google/caiman/pixel-source/bootctrl/1.2",
+		"device/google/tegu/pixel-source/conf",
+		"device/google/tegu/pixel-source/bootctrl/1.2",
 		// "device/google/shiba/pixel-source/bootctrl/aidl",
 		// "device/google/shiba/pixel-source/device_zuma/usb/usb",
 		// "device/google/shiba/pixel-source/hardware_google_pixel/pixelstats",

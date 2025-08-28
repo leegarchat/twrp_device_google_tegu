@@ -6,7 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_caiman.mk
+    $(LOCAL_DIR)/twrp_tegu.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_caiman-eng
+    twrp_tegu-eng

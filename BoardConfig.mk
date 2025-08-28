@@ -8,7 +8,7 @@
 
 
 
-DEVICE_PATH := device/google/caiman
+DEVICE_PATH := device/google/tegu
 
 
 # Флаги сборочной системы (BUILD_BROKEN_, ALLOW_)
